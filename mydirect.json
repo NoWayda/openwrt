@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": 
+      [
+          "66tutup.com",
+          "oceanpitech.com",
+          "idmwx.com",
+          "hao6v.tv",
+          "423down.com",
+          "haibao123.xyz",
+          "time.windows.com",
+          "oss.oceanpitech.com",
+          "account.samsung.com",
+          "ntp.org",
+          "settings-win.data.microsoft.com",
+          "windows.com",
+          "tizen.org",
+          "samsungknox.com",
+          "outlook.com",
+          "nvidia.com",
+          "steamcontent.com",
+          "mapbox.com",  
+          "steamchina.com",
+          "unity3d.com",  
+          "sportsteam368.com",
+          "snssdk.com",
+          "ecs.office.com"
+      ]
+    }
+  ]
+}
+
